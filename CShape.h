@@ -14,7 +14,7 @@ using namespace std;
 /// @brief to manage a generico object with a shape
 class Shape
 {
-private:
+protected:
 
     /// position of the shape in the page/grid
     float x;
